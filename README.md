@@ -7,3 +7,5 @@
 → λ♂.(λ♄.♂♄)
 → λ♂♄.♂♄
 ```
+
+![Axis Mundi Plains](img/2017-12-31-Axis%20Mundi.png)
